@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Hardhat / Foundry
+artifacts/
+cache/
+out/
+*.dbg.json
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
